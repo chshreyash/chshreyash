@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyasn Chintha</h1>
+<h1 align="center">Hi 👋, I'm Shreyash Chintha</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <img align="right" alt="codingseriously" width="360" height="360" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
