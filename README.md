@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreyasn Chintha</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<img align="right" alt="codingseriously" width="400" src="[https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952nnkkkr42h15n70hu49urn1ynlq06s98s29zp1fkq&ep=v1_gifs_search&rid=200w.gif&ct=g](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1xZYb4vKnx-k5Gl5IoV6Fk&ust=1705851528510000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCIiazaam7IMDFQAAAAAdAAAAABCqAQ)">
+<img align="right" alt="codingseriously" width="400" src="![image](https://github.com/chshreyash/chshreyash/assets/129191717/21d9906d-84a6-4f8b-888c-9f50389ef99e)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chshreyash&label=Profile%20views&color=0e75b6&style=flat" alt="chshreyash" /> </p>
 
